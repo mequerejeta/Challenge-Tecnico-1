@@ -1,0 +1,6 @@
+@MutantAPI_HostAddress = http://localhost:5037
+
+GET {{MutantAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

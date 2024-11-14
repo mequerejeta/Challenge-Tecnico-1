@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantAPI", "MutantAPI\MutantAPI.csproj", "{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantServices", "MutantLibrary\MutantServices.csproj", "{7529D1EE-3D12-413E-AB39-E404164CCAA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantTests", "MutantTests\MutantTests.csproj", "{AA3A7379-0073-48D4-941C-A53D4AD7901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7529D1EE-3D12-413E-AB39-E404164CCAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7529D1EE-3D12-413E-AB39-E404164CCAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7529D1EE-3D12-413E-AB39-E404164CCAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7529D1EE-3D12-413E-AB39-E404164CCAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3A7379-0073-48D4-941C-A53D4AD7901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3A7379-0073-48D4-941C-A53D4AD7901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3A7379-0073-48D4-941C-A53D4AD7901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3A7379-0073-48D4-941C-A53D4AD7901C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
