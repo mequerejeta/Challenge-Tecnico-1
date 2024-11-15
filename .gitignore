@@ -6,3 +6,7 @@
 /MutantAPI/obj
 /MutantLibrary/obj
 /MutantTests/obj
+/MutantAPI/bin
+/MutantLibrary/bin
+/MutantTests/bin
+/publish

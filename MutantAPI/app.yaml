@@ -1,0 +1,9 @@
+﻿runtime: aspnetcore
+env: flex
+
+entrypoint: dotnet MutantAPI.dll
+
+instance_class: F2  
+
+env_variables:
+  ASPNETCORE_URLS: "http://0.0.0.0:8080"  

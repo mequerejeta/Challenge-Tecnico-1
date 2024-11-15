@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantAPI", "MutantAPI\MutantAPI.csproj", "{5FC1358B-BA93-4EFA-B27C-0936B5E2AC96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantServices", "MutantLibrary\MutantServices.csproj", "{7529D1EE-3D12-413E-AB39-E404164CCAA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantDetection", "MutantLibrary\MutantDetection.csproj", "{7529D1EE-3D12-413E-AB39-E404164CCAA7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutantTests", "MutantTests\MutantTests.csproj", "{AA3A7379-0073-48D4-941C-A53D4AD7901C}"
 EndProject
@@ -30,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68BB4221-F573-4F57-8D4B-7EBA191130CC}
 	EndGlobalSection
 EndGlobal
