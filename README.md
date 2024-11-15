@@ -43,5 +43,6 @@ Este comando aplicará todas las migraciones pendientes a la base de datos confi
 Si no tienes migraciones, obtendrás un mensaje indicándote que no hay migraciones y deberas poner 
 
 Add-Migration NombreDeLaMigracion
+
 5.Una vez realizado este paso se debera correr el programa se puede usar el comando dotnet run, una vez que se corra se ejecutara el Seeder en el codigo que carga en la database datos iniciales para que 
 se pueda probar el endpoint /stats/
