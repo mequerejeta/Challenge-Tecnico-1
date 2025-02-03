@@ -1,4 +1,4 @@
-# Mutant Detection API
+# Challenge para una empresa: Mutant Detection API
 
 Este proyecto es una API desarrollada en ASP.NET Core 8.0, que detecta si un conjunto de secuencias de ADN pertenece a un mutante o no. Utiliza SQL Server para almacenar los registros de ADN, y cuenta con una funcionalidad para calcular estadísticas sobre los datos procesados.
 #Arquitectura
@@ -25,8 +25,8 @@ Tampoco llegue a desplegar en la nube la imagen de docker.
 
 1. Clonar el repositorio:
 
-   git clone https://github.com/mequerejeta/Querejeta-Meli.git
-   cd Querejeta-Meli/MutantAPI
+   git clone https://github.com/mequerejeta/Challenge-Tecnico-1.git
+   cd Challenge-Tecnico-1/MutantAPI
 
 2.Una vez clonado abrir el proyecto con visual studio o vscode
 3. Si se quiere usar SQLServer revisar el appsetting que apunte a tu base de datos local
